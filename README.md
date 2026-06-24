@@ -25,10 +25,10 @@ A infraestrutura foi utilizada para hospedagem da aplicação, validação do fl
 
 ## Competências Demonstradas
 
-Hospedagem de aplicações web em Apache2
+Hospedagem de aplicações web em Apache2,
 Administração básica de ambientes Linux
-Implementação de autenticação multifator (MFA/2FA)
-Validação de identidade de usuários
+,Implementação de autenticação multifator (MFA/2FA),
+Validação de identidade de usuários,
 Desenvolvimento Front-End com HTML, JavaScript e Tailwind CSS
 Estruturação de fluxos de autenticação em múltiplas etapas
 
