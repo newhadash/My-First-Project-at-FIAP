@@ -1,13 +1,13 @@
 # NexShop Anti-Fraud Platform 🛡️
 
 ## 📌 Sobre o Projeto
-Projeto desenvolvido durante o FIAP Challenge com foco em conceitos de autenticação segura, validação de identidade e simulação de mecanismos antifraude utilizados em aplicações web modernas. 
+Projeto desenvolvido durante o FIAP Challenge com foco em autenticação segura, validação de identidade e controle de acesso em aplicações web.
 
-O objetivo foi criar uma aplicação web hospedada em ambiente Apache2 capaz de demonstrar múltiplas camadas de validação de acesso e autenticação.
+O objetivo foi desenvolver uma aplicação web hospedada em ambiente Linux utilizando Apache2, demonstrando múltiplas camadas de autenticação e validação de usuários através de um fluxo de acesso estruturado.
 
 ## 💻 Tecnologias Utilizadas
 * HTML5
-* JavaScript
+* JavaScript (Vanilla JS)
 * Tailwind CSS
 * Apache2
 * Linux
@@ -15,12 +15,22 @@ O objetivo foi criar uma aplicação web hospedada em ambiente Apache2 capaz de 
 ## ⚙️ Funcionalidades
 
 * **Login Seguro:** Validação de usuário e senha, estabelecendo o controle de acesso inicial.
-* **Autenticação Multifator (2FA):** Simulação de segundo fator de autenticação e validação de código de acesso.
+* **Autenticação Multifator (2FA):** Simulação de segundo fator de autenticação através da validação de códigos de acesso.
 * **Validação de Identidade:** Verificação de CPF, verificação de telefone e confirmação humana.
-* **Fluxo de Segurança:** Múltiplas etapas de autenticação, tratamento rigoroso de requisições e simulação de mecanismos antifraude.
+* **Fluxo de Segurança:** Implementação de múltiplas etapas de autenticação, validação de dados e tratamento de requisições para simulação de controles de segurança utilizados em aplicações corporativas.
 
 ## 🏗️ Infraestrutura
-O projeto foi implantado em servidor local **Apache2** (Linux) para validação do fluxo completo de acesso web e hospedagem da aplicação.
+O projeto foi implantado em ambiente Linux utilizando Apache2 como servidor web.
+A infraestrutura foi utilizada para hospedagem da aplicação, validação do fluxo completo de autenticação e simulação de um ambiente de acesso controlado.
+
+## Competências Demonstradas
+
+Hospedagem de aplicações web em Apache2
+Administração básica de ambientes Linux
+Implementação de autenticação multifator (MFA/2FA)
+Validação de identidade de usuários
+Desenvolvimento Front-End com HTML, JavaScript e Tailwind CSS
+Estruturação de fluxos de autenticação em múltiplas etapas
 
 ## 🎥 Demonstração Técnica
 Assista à prova de conceito (PoC) da plataforma em funcionamento:
