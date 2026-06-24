@@ -29,7 +29,7 @@ Hospedagem de aplicações web em Apache2,
 Administração básica de ambientes Linux
 ,Implementação de autenticação multifator (MFA/2FA),
 Validação de identidade de usuários,
-Desenvolvimento Front-End com HTML, JavaScript e Tailwind CSS
+Desenvolvimento Front-End com HTML, JavaScript e Tailwind CSS e
 Estruturação de fluxos de autenticação em múltiplas etapas
 
 ## 🎥 Demonstração Técnica
